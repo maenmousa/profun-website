@@ -49,10 +49,10 @@ export const COPY = {
     seo_title: "Services and Learning | The ProFun Academy",
     seo_description: "Learning strategy, workforce capability, program design, training delivery and operational readiness, delivered in person, virtually, online or blended.",  },
   learning: {
-    head_eyebrow: "How We Deliver intro + Experiential Learning (light) */}",
+    head_eyebrow: "How We Deliver",
     head_title: "Learning that fits your teams and operations.",
     head_text: "We shape learning around your workforce, operational priorities, and learning goals, combining experienced facilitators, practical activities, and content tailored to your cultural context.",
-    experiential_eyebrow: "Experiential Learning */}",
+    experiential_eyebrow: "Experiential Learning",
     experiential_title: "Practical experience.\nLasting application.",
     experiential_text: "Through realistic scenarios, simulations, and workplace practice, your teams connect knowledge to their roles and build the confidence to apply it.",
     experiential_image: "./learning-experiential-v2.jpg",
