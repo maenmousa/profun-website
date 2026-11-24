@@ -29,7 +29,7 @@ export const COPY = {
     seo_image: "./hero-academy-v3-poster.jpg",  },
   about: {
     intro_eyebrow: "About the Academy",
-    intro_title: "The people behind\ngreat experiences.",
+    intro_title: "Training the people behind\nthe world’s greatest experiences.",
     intro_text1: "The ProFun Academy is a division of ProFun, a company dedicated exclusively to operations advisory, training and management for the visitor attractions industry. Since 1980, ProFun has advised on, trained for and managed projects globally, working alongside theme parks, waterparks, museums, cultural institutions, brand centers and world-class events.",
     intro_text2: "The Academy brings that operational depth directly into the learning room. Every program is built from real industry experience and delivered by people who have worked at the highest levels of the attractions world.",
     intro_link: "Explore our services",

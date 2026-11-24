@@ -119,7 +119,7 @@ export const PROJECTS: { title: string; about: string; category: string; locatio
   {
     title: 'Qiddiya City',
     about: "Saudi Arabia's future capital of entertainment, sports and culture, rising just outside Riyadh.",
-    category: 'Commercial Attraction',
+    category: 'Leisure Destination',
     location: 'Riyadh, Saudi Arabia',
     image: './qiddiya-entertainment-city-card.jpg',
   },

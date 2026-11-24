@@ -70,7 +70,7 @@ export const pfStat = list('pfStat', 'ProFun key number', stat, { title: 'label'
 export const acTeam = list('acTeam', 'Academy team member', person, { title: 'name', subtitle: 'role' })
 export const acProject = list('acProject', 'Academy project', [
   defineField({ name: 'title', title: 'Project name', type: 'string', validation: req }),
-  defineField({ name: 'category', title: 'Category', type: 'string', options: { list: ['Commercial Attraction', 'Science & Culture', 'Brand Experience', 'Expositions & Mega-Events'] } }),
+  defineField({ name: 'category', title: 'Category', type: 'string', options: { list: ['Commercial Attraction', 'Leisure Destination', 'Mixed-Use Destination', 'Science & Culture', 'Brand Experience', 'Expositions & Mega-Events'] } }),
   defineField({ name: 'location', title: 'Location', type: 'string' }),
   photo(), legacy,
   defineField({ name: 'about', title: 'Short description', type: 'text', rows: 3 }),
