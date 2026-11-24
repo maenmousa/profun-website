@@ -20,7 +20,7 @@ export const COPY = {
     partners_title: "Connected to the institutions\nthat set the standard.",
     partners_text: "Accreditation partners, delivery partners and industry bodies that keep every Academy program aligned with global best practice.",
     iaapa_image: "./iaapa-pre-approved.png",
-    iaapa_eyebrow: "IAAPA Education Pre-Approved Provider\" loading=\"lazy\" decoding=\"async\" className=\"w-full max-w-[280px] h-auto\" />",
+    iaapa_eyebrow: "IAAPA Education Pre-Approved Provider",
     iaapa_title: "Recognized by IAAPA for industry education.",
     iaapa_text: "The ProFun Academy is an IAAPA Education Pre-Approved Provider, recognized by the International Association of Amusement Parks and Attractions for delivering quality education to the global attractions industry.",
 
