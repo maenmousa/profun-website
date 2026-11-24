@@ -90,7 +90,7 @@ export const COPY = {
     seo_title: "Our Work | ProFun",
     seo_description: "Clients, projects and case studies from more than 500 attractions in over 50 countries.",  },
   team: {
-    head_eyebrow: "Leadership() {",
+    head_eyebrow: "Leadership",
     head_title: "The people who lead our practice",
     head_text: "A proven team of international and local professionals, experienced in planning and managing entertainment, corporate and cultural attractions worldwide.",
 
